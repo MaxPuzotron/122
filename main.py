@@ -1,1 +1,1 @@
-print('Slava allahu')
+print('Allahu Akbar')
